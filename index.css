@@ -6,12 +6,11 @@ body, html {
 }
 
 body {
-    /* background: url(../images/sean-oulashin-KMn4VEeEPR8-unsplash.jpg) no-repeat center center fixed; */
+    background: url(./images/todd-diemer-uFomxGheuGk-unsplash.jpg) no-repeat center fixed;
     background-size: cover;
-    background-color: black;
 }
 
-#vanta {
+/* #vanta {
     z-index: 0;
     position: absolute;
     top: 0;
@@ -19,7 +18,7 @@ body {
     right: 0;
     width: 100%;
     height: 100%;
-}
+} */
 main {
     position: realative;
 }
@@ -81,12 +80,12 @@ ul > li > a {
 }
 
 a {
-    color: rgb(252, 252, 252);
+    color: #fff;
     text-decoration: none;
 }
 
 .authordesc {
-    color: rgba(190, 185, 185, 0.667);
+    color: #fff;
     display: flex;
     flex-direction: column;
     align-items: center;
